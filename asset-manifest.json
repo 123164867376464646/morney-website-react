@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/morney-website-react/static/css/main.b15d03eb.css",
+    "main.js": "/morney-website-react/static/js/main.b674e443.js",
+    "static/media/qrcode.png": "/morney-website-react/static/media/qrcode.2cef1999dc0272f5c3f5.png",
+    "index.html": "/morney-website-react/index.html",
+    "main.b15d03eb.css.map": "/morney-website-react/static/css/main.b15d03eb.css.map",
+    "main.b674e443.js.map": "/morney-website-react/static/js/main.b674e443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15d03eb.css",
+    "static/js/main.b674e443.js"
+  ]
+}
